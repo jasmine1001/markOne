@@ -24,6 +24,12 @@ var questions = [{
 {
   question: "guess the favorite color? ",
   answer: "black"
+}, {
+  question: "Who's my best friend? ",
+  answer: "Gayatri saraf"
+}, {
+  question: "which college do I study? ",
+  answer: "VESIT,mumbai"
 }];
 
 function welcome() {
